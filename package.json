@@ -1,0 +1,27 @@
+{
+  "name": "unfreeze",
+  "version": "1.0.0",
+  "description": "Recursively unfreeze an object frozen using Object.freeze",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unfreeze",
+    "object",
+    "freeze",
+    "recursive",
+    "deep",
+    "nested"
+  ],
+  "author": "Anthony Mugendi <ngurumugz@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugendi/unfreeze.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mugendi/unfreeze/issues"
+  },
+  "homepage": "https://github.com/mugendi/unfreeze#readme"
+}
